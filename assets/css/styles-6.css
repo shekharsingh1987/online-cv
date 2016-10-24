@@ -65,6 +65,7 @@ p {
 }
 .profile{
   border-radius:50%;
+  width: 100%;  
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
