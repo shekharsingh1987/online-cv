@@ -14,6 +14,9 @@ jQuery(document).ready(function($) {
             
         });
 
+        function PrintWholeDocument() {
+            window.print();
+        }
     });
    
     
