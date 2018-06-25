@@ -15,6 +15,7 @@ jQuery(document).ready(function ($) {
         });
 
         $('#PrintWholeDocument').click(function () {
+            alert('clicked on printing');
             window.print();
         });
 
